@@ -1,0 +1,48 @@
+Quartus Prime Archive log --	C:/Users/trinht/Downloads/Verilog_Pong-main/pongFinal_tmp_archive.qarlog
+
+Archive:	C:/Users/trinht/Downloads/Verilog_Pong-main/pongFinal_tmp_archive.qar
+Date:		Tue Dec 06 15:33:24 2022
+Quartus Prime		16.1.0 Build 196 10/24/2016 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/Users/trinht/Downloads/Verilog_Pong-main/Proj.qsf
+C:/Users/trinht/Downloads/Verilog_Pong-main/__pongFinal.auto.qarlog
+C:/Users/trinht/Downloads/Verilog_Pong-main/output_files/final.asm.rpt
+C:/Users/trinht/Downloads/Verilog_Pong-main/output_files/final.done
+C:/Users/trinht/Downloads/Verilog_Pong-main/output_files/final.eda.rpt
+C:/Users/trinht/Downloads/Verilog_Pong-main/output_files/final.fit.rpt
+C:/Users/trinht/Downloads/Verilog_Pong-main/output_files/final.fit.smsg
+C:/Users/trinht/Downloads/Verilog_Pong-main/output_files/final.fit.summary
+C:/Users/trinht/Downloads/Verilog_Pong-main/output_files/final.flow.rpt
+C:/Users/trinht/Downloads/Verilog_Pong-main/output_files/final.jdi
+C:/Users/trinht/Downloads/Verilog_Pong-main/output_files/final.map.rpt
+C:/Users/trinht/Downloads/Verilog_Pong-main/output_files/final.map.smsg
+C:/Users/trinht/Downloads/Verilog_Pong-main/output_files/final.map.summary
+C:/Users/trinht/Downloads/Verilog_Pong-main/output_files/final.pin
+C:/Users/trinht/Downloads/Verilog_Pong-main/output_files/final.sld
+C:/Users/trinht/Downloads/Verilog_Pong-main/output_files/final.sof
+C:/Users/trinht/Downloads/Verilog_Pong-main/output_files/final.sta.rpt
+C:/Users/trinht/Downloads/Verilog_Pong-main/output_files/final.sta.summary
+C:/Users/trinht/Downloads/Verilog_Pong-main/output_files/pongFinal.flow.rpt
+C:/Users/trinht/Downloads/Verilog_Pong-main/output_files/pongFinal.map.rpt
+C:/Users/trinht/Downloads/Verilog_Pong-main/output_files/pongFinal.map.summary
+C:/Users/trinht/Downloads/Verilog_Pong-main/pongFinal.qpf
+C:/Users/trinht/Downloads/Verilog_Pong-main/pongFinal.qsf
+C:/Users/trinht/Downloads/Verilog_Pong-main/pongFinal.v
+C:/Users/trinht/Downloads/Verilog_Pong-main/pongFinal_assignment_defaults.qdf
+C:/Users/trinht/Downloads/Verilog_Pong-main/seven_segment.v
+C:/Users/trinht/Downloads/Verilog_Pong-main/vga_adapter/vga_adapter.v
+C:/Users/trinht/Downloads/Verilog_Pong-main/vga_adapter/vga_address_translator.v
+C:/Users/trinht/Downloads/Verilog_Pong-main/vga_adapter/vga_controller.v
+C:/Users/trinht/Downloads/Verilog_Pong-main/vga_adapter/vga_pll.v
+c:/intelfpga_lite/16.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 31 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Tue Dec 06 15:33:26 2022
+Source archive file:	C:/Users/trinht/Downloads/Verilog_Pong-main/pongFinal_tmp_archive.qar
+Archive was extracted into	C:/Users/trinht/Downloads/Verilog_Pong-main_copy/
+		 - successfully.
