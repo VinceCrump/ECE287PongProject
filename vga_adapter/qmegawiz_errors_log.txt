@@ -1,0 +1,10 @@
+
+
+C:/Users/trinht/Downloads/Verilog_Pong-main/vga_adapter/vga_pll.v
+
+Dec 06 02PM:54:48>: Error in CNX file format.
+
+Error messages are listed in file
+C:/Users/trinht/Downloads/Verilog_Pong-main/vga_adapter/vga_pll.cnxerr.
+
+Can't create the custom megafunction variation file(s)
